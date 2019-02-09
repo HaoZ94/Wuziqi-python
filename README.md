@@ -9,7 +9,7 @@ Players alternate turns placing a stone of their color on an empty intersection.
 
 This is a python version of the game Wuziqi. Implemented by PyGame and PyQt5. Tested it on python verison 3.6.3 on system Macos mojave 10.14.2.
 
-###*Required Dependencies*
+## Dependencies
 
 - numpy==1.15.1
 - pygame==1.9.4
@@ -18,3 +18,8 @@ This is a python version of the game Wuziqi. Implemented by PyGame and PyQt5. Te
 ## Run
 
 Just open wuziqi.py file and run it.
+
+## Future Verison
+
+- Add communication module based on socket
+- Suggestions are welcomed, just send me an email:hz808@nyu.edu
